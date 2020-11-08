@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.17)  8 NOV 2020 03:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.17)  8 NOV 2020 03:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -534,7 +534,7 @@ Overfull \hbox (16.41815pt too wide) in paragraph at lines 188--189
 Here is how much of TeX's memory you used:
  3865 strings out of 481239
  53756 string characters out of 5920376
- 287382 words of memory out of 5000000
+ 287391 words of memory out of 5000000
  19040 multiletter control sequences out of 15000+600000
  547029 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -552,7 +552,7 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type
 bx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/sha
 re/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1
 /public/cm-super/sfrm2074.pfb>
-Output written on lab1.2.2.pdf (7 pages, 195192 bytes).
+Output written on lab1.2.2.pdf (7 pages, 194129 bytes).
 PDF statistics:
  147 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
